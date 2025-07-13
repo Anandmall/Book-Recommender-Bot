@@ -1,0 +1,238 @@
+{
+  "genre": {
+    "romance": [
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen"
+      },
+      {
+        "title": "The Notebook",
+        "author": "Nicholas Sparks"
+      },
+      {
+        "title": "Me Before You",
+        "author": "Jojo Moyes"
+      },
+      {
+        "title": "Outlander",
+        "author": "Diana Gabaldon"
+      },
+      {
+        "title": "The Hating Game",
+        "author": "Sally Thorne"
+      },
+      {
+        "title": "Twilight",
+        "author": "Stephenie Meyer"
+      },
+      {
+        "title": "It Ends with Us",
+        "author": "Colleen Hoover"
+      },
+      {
+        "title": "Red, White & Royal Blue",
+        "author": "Casey McQuiston"
+      }
+    ],
+    "mystery": [
+      {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn"
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson"
+      },
+      {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown"
+      },
+      {
+        "title": "Big Little Lies",
+        "author": "Liane Moriarty"
+      },
+      {
+        "title": "In the Woods",
+        "author": "Tana French"
+      },
+      {
+        "title": "The Woman in Cabin 10",
+        "author": "Ruth Ware"
+      }
+    ],
+    "sci-fi": [
+      {
+        "title": "Dune",
+        "author": "Frank Herbert"
+      },
+      {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card"
+      },
+      {
+        "title": "The Martian",
+        "author": "Andy Weir"
+      },
+      {
+        "title": "Neuromancer",
+        "author": "William Gibson"
+      },
+      {
+        "title": "Snow Crash",
+        "author": "Neal Stephenson"
+      }
+    ],
+    "fantasy": [
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling"
+      },
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien"
+      },
+      {
+        "title": "Mistborn",
+        "author": "Brandon Sanderson"
+      },
+      {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss"
+      },
+      {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin"
+      }
+    ],
+    "thriller": [
+      {
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides"
+      },
+      {
+        "title": "Before I Go to Sleep",
+        "author": "S.J. Watson"
+      },
+      {
+        "title": "Behind Closed Doors",
+        "author": "B.A. Paris"
+      },
+      {
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins"
+      }
+    ]
+  },
+  "mood": {
+    "happy": [
+      {
+        "title": "Eleanor Oliphant Is Completely Fine",
+        "author": "Gail Honeyman"
+      },
+      {
+        "title": "The Rosie Project",
+        "author": "Graeme Simsion"
+      },
+      {
+        "title": "A Man Called Ove",
+        "author": "Fredrik Backman"
+      },
+      {
+        "title": "The Flatshare",
+        "author": "Beth O'Leary"
+      }
+    ],
+    "sad": [
+      {
+        "title": "The Fault in Our Stars",
+        "author": "John Green"
+      },
+      {
+        "title": "A Little Life",
+        "author": "Hanya Yanagihara"
+      },
+      {
+        "title": "My Sister\u2019s Keeper",
+        "author": "Jodi Picoult"
+      },
+      {
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold"
+      }
+    ],
+    "adventurous": [
+      {
+        "title": "Life of Pi",
+        "author": "Yann Martel"
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho"
+      },
+      {
+        "title": "Into the Wild",
+        "author": "Jon Krakauer"
+      },
+      {
+        "title": "Around the World in 80 Days",
+        "author": "Jules Verne"
+      }
+    ]
+  },
+  "author": {
+    "dan brown": [
+      {
+        "title": "Angels & Demons",
+        "genre": "Thriller"
+      },
+      {
+        "title": "The Da Vinci Code",
+        "genre": "Mystery"
+      },
+      {
+        "title": "Inferno",
+        "genre": "Thriller"
+      },
+      {
+        "title": "Origin",
+        "genre": "Thriller"
+      }
+    ],
+    "j.k. rowling": [
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "genre": "Fantasy"
+      },
+      {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "genre": "Fantasy"
+      },
+      {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "genre": "Fantasy"
+      },
+      {
+        "title": "Harry Potter and the Goblet of Fire",
+        "genre": "Fantasy"
+      }
+    ],
+    "nicholas sparks": [
+      {
+        "title": "The Notebook",
+        "genre": "Romance"
+      },
+      {
+        "title": "A Walk to Remember",
+        "genre": "Romance"
+      },
+      {
+        "title": "Dear John",
+        "genre": "Romance"
+      },
+      {
+        "title": "The Lucky One",
+        "genre": "Romance"
+      }
+    ]
+  }
+}
